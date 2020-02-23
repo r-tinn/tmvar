@@ -1,0 +1,1 @@
+# combime tmVar with GNomrPlus
